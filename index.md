@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Gecko FAQ
+> Этот FAQ содержит ответы на основные вопросы о Gecko.
+ознакомьтесь с нашим расширенным FAQ для получения дополнительной технической информации.
 
-You can use the [editor on GitHub](https://github.com/nordbearbotdev/Gecko/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Общая информация
+[Что такое Gecko?]()
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Для кого это?]()
 
-### Markdown
+[Чем он отличается от WhatsApp или Telegram?]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Сколько лет Gecko?]()
+[Доступен ли он на моем устройстве?]()
+[Кто стоит за Gecko?]]()
 
-```markdown
-Syntax highlighted code block
+[Где базируется Gecko?]()
 
-# Header 1
-## Header 2
-### Header 3
+[Как вы зарабатываете деньги?]()
 
-- Bulleted
-- List
+[Что вы думаете о конфиденциальности в Интернете?]()
 
-1. Numbered
-2. List
+[Как насчет GDPR?]()
 
-**Bold** and _Italic_ and `Code` text
+[Обрабатываете ли вы запросы на демонтаж?]()
 
-[Link](url) and ![Image](src)
-```
+[Обрабатываете ли вы запросы данных?]()
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nordbearbotdev/Gecko/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
