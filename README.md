@@ -38,6 +38,16 @@ Gecko передает все сообщения через сеть Tor и за
 ### Gecko-Desktop
 Для сборки и запуска Gecko-Desktop, вам потребуется:
 
+### Docker
+```shell
+docker push nordbearbot/gecko
+```
+### Github
+```shell
+git clone https://github.com/nordbearbotdev/Gecko/tree/main/Gecko
+cd Gecko
+```
+
 ### 🍏 Gecko iOS  
 
 ```shell
