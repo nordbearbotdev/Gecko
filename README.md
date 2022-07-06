@@ -91,3 +91,9 @@ git clone https://github.com/nordbearbotdev/Gecko/tree/main/Gecko.iOS
 ./src/main.py --debug
 
 ```
+
+## Windows
+
+```
+
+```
