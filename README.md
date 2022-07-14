@@ -94,7 +94,7 @@ git clone https://github.com/nordbearbotdev/Gecko/tree/main/Gecko.iOS
 
 ## Windows
 
-```
+```bash
 git clone https://github.com/nordbearbot/GeckoPay/
 cd GeckoPay
 ```
