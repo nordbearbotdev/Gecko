@@ -80,19 +80,19 @@ git clone https://github.com/nordbearbotdev/Gecko/tree/main/Gecko.iOS
 * ***Возможность использования нескольких учетных записей***
 * ***Управление учетными записями***
 
-# 🕹️ Запуск
+# ***🕹️ Запуск***
 Перед запуском проверьте или установите следующее:
 - [Python]()
 - [Git]()
 
-## MacOSX & Linux
+## ***MacOSX & Linux***
 
 ```shell
 ./src/main.py --debug
 
 ```
 
-## Windows
+## ***Windows***
 
 ```bash
 git clone https://github.com/nordbearbot/GeckoPay/
